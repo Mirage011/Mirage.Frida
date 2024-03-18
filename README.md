@@ -63,7 +63,6 @@ Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 <h2 align="left">
