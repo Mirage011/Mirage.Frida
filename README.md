@@ -23,7 +23,7 @@
   <img src="https://media3.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47mamrlp0l46uxj1z5wwn6j0pf48a9bu0waz5jik34&rid=giphy.gif&ct=s" width="50" height="50"/>
 </h2>
 
-My name is Mirage. I am Google Data Analytics  Certificated and Python Expert. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am from Berlin.
+My name is Mirage. I am Google Data Analytics Certified and Python Expert. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am from Berlin.
 
 
 - My proficiency in analyzing complex datasets and deriving actionable insights enables me to uncover valuable opportunities and drive informed decision-making processes. Leveraging programming languages such as Python and SQL, I efficiently manipulate and extract key information from diverse data sources.
